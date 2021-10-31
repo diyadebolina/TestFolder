@@ -1,0 +1,32 @@
+.row .a1
+{
+    background-color: rgb(162, 141, 181);
+    padding: 40px;
+}
+.row .a2
+{
+    background-color: rgb(213, 87, 119);
+    padding: 40px;
+}
+
+.row .a3
+{
+    background-color: rgb(201, 214, 140);
+    padding: 40px;
+}
+.row .a4
+{
+    background-color: rgb(129, 236, 145);
+    padding: 40px;
+}
+.row .btn
+{
+    border-radius: 20px;
+    background-color: rgb(230, 142, 11);
+    padding: 10px;
+}
+.row .btn a
+{
+    color: black;
+    text-decoration: none;
+}
